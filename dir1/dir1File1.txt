@@ -1,3 +1,4 @@
 we are developing something
 Edited something, something is fixed
-made even more changes
+
+make more changes
